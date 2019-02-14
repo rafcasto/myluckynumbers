@@ -1,0 +1,14 @@
+/home/fanvel/Desktop/LearningDotnetCore/DotNetCoreSelenium/myluckynumbers/bin/Debug/netcoreapp2.1/Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+/home/fanvel/Desktop/LearningDotnetCore/DotNetCoreSelenium/myluckynumbers/bin/Debug/netcoreapp2.1/Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+/home/fanvel/Desktop/LearningDotnetCore/DotNetCoreSelenium/myluckynumbers/bin/Debug/netcoreapp2.1/Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+/home/fanvel/Desktop/LearningDotnetCore/DotNetCoreSelenium/myluckynumbers/bin/Debug/netcoreapp2.1/DotNetCoreSelenium.deps.json
+/home/fanvel/Desktop/LearningDotnetCore/DotNetCoreSelenium/myluckynumbers/bin/Debug/netcoreapp2.1/DotNetCoreSelenium.runtimeconfig.json
+/home/fanvel/Desktop/LearningDotnetCore/DotNetCoreSelenium/myluckynumbers/bin/Debug/netcoreapp2.1/DotNetCoreSelenium.runtimeconfig.dev.json
+/home/fanvel/Desktop/LearningDotnetCore/DotNetCoreSelenium/myluckynumbers/bin/Debug/netcoreapp2.1/DotNetCoreSelenium.dll
+/home/fanvel/Desktop/LearningDotnetCore/DotNetCoreSelenium/myluckynumbers/bin/Debug/netcoreapp2.1/DotNetCoreSelenium.pdb
+/home/fanvel/Desktop/LearningDotnetCore/DotNetCoreSelenium/myluckynumbers/obj/Debug/netcoreapp2.1/DotNetCoreSelenium.csprojAssemblyReference.cache
+/home/fanvel/Desktop/LearningDotnetCore/DotNetCoreSelenium/myluckynumbers/obj/Debug/netcoreapp2.1/DotNetCoreSelenium.csproj.CoreCompileInputs.cache
+/home/fanvel/Desktop/LearningDotnetCore/DotNetCoreSelenium/myluckynumbers/obj/Debug/netcoreapp2.1/DotNetCoreSelenium.AssemblyInfoInputs.cache
+/home/fanvel/Desktop/LearningDotnetCore/DotNetCoreSelenium/myluckynumbers/obj/Debug/netcoreapp2.1/DotNetCoreSelenium.AssemblyInfo.cs
+/home/fanvel/Desktop/LearningDotnetCore/DotNetCoreSelenium/myluckynumbers/obj/Debug/netcoreapp2.1/DotNetCoreSelenium.dll
+/home/fanvel/Desktop/LearningDotnetCore/DotNetCoreSelenium/myluckynumbers/obj/Debug/netcoreapp2.1/DotNetCoreSelenium.pdb
